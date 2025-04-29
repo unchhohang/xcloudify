@@ -1,0 +1,49 @@
+
+1. **Nav-Bar**
+   ```html
+   <div class="font-plus-jakarta-sans font-medium text-base leading-tight tracking-tight align-middle">
+     <!-- Content -->
+   </div>
+   ```
+
+2. **subtitle**
+   ```html
+   <div class="font-plus-jakarta-sans font-medium text-base leading-tight tracking-tight align-middle">
+     <!-- Content -->
+   </div>
+   ```
+
+3. **h1**
+   ```html
+   <h1 class="font-plus-jakarta-sans font-semibold text-6xl leading-[82px] tracking-tight text-center align-middle">
+     <!-- Content -->
+   </h1>
+   ```
+
+4. **p1**
+   ```html
+   <p class="font-plus-jakarta-sans font-normal text-lg leading-8 tracking-tight text-center align-middle">
+     <!-- Content -->
+   </p>
+   ```
+
+5. **h2**
+   ```html
+   <h2 class="font-plus-jakarta-sans font-semibold text-4xl leading-12 tracking-tight capitalize">
+     <!-- Content -->
+   </h2>
+   ```
+
+6. **h3**
+   ```html
+   <h3 class="font-plus-jakarta-sans font-medium text-xl leading-8 tracking-[0.45px] text-center capitalize">
+     <!-- Content -->
+   </h3>
+   ```
+
+7. **footer**
+   ```html
+   <footer class="font-plus-jakarta-sans font-normal text-sm leading-5 tracking-tight align-middle">
+     <!-- Content -->
+   </footer>
+   ```
